@@ -1,0 +1,26 @@
+{
+  "status": "complete",
+  "auditor_version": 2,
+  "auditor_model": "deepseek-v4-flash",
+  "method": "full-coverage automated screening plus targeted human review; not full human annotation",
+  "conversation_count": 5000,
+  "flagged_count": 0,
+  "category_counts": {
+    "none": 5000
+  },
+  "final_repair": {
+    "target": {
+      "persona_id": 101,
+      "conversation_id": 1
+    },
+    "rejection_sampling_attempts": 1,
+    "final_result": {
+      "persona_id": 101,
+      "conversation_id": 1,
+      "role_failure": false,
+      "category": "none",
+      "reason": "The Client maintains their role as the person seeking support for a journalism career transition, and the Responder offers ordinary peer advice without reversing roles or adopting the persona."
+    }
+  },
+  "flagged_records": []
+}

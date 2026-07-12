@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+type: dataset
+message: "Please cite the SPASM paper and identify the dataset version and model pairing used."
+title: "SPASM DeepSeek-V4-Flash 500 x 10 Dialogue Dataset"
+version: 1.0.0
+date-released: 2026-07-12
+license: CC-BY-4.0
+authors:
+  - family-names: Luo
+    given-names: Han
+  - family-names: Laban
+    given-names: Guy
+url: "https://github.com/lhannnn/SPASM"
+preferred-citation:
+  type: article
+  title: "SPASM: Stable Persona-driven Agent Simulation for Multi-turn Dialogue Generation"
+  authors:
+    - family-names: Luo
+      given-names: Han
+    - family-names: Laban
+      given-names: Guy
+  year: 2026
+  journal: "Findings of the Association for Computational Linguistics: ACL 2026"
+  url: "https://aclanthology.org/2026.findings-acl.412/"
