@@ -101,12 +101,12 @@ annotation.
 If you use this dataset, please cite:
 
 ```bibtex
-@inproceedings{luo-laban-2026-spasm,
-  title     = {{SPASM}: Stable Persona-driven Agent Simulation for Multi-turn Dialogue Generation},
-  author    = {Luo, Han and Laban, Guy},
-  booktitle = {Findings of the Association for Computational Linguistics: ACL 2026},
-  year      = {2026},
-  url       = {https://aclanthology.org/2026.findings-acl.412/}
+@inproceedings{luo2026spasm,
+  title={SPASM: Stable Persona-driven Agent Simulation for Multi-turn Dialogue Generation},
+  author={Luo, Han and Laban, Guy},
+  booktitle={Findings of the Association for Computational Linguistics: ACL 2026},
+  pages={8455--8475},
+  year={2026}
 }
 ```
 

@@ -21,4 +21,6 @@ preferred-citation:
       given-names: Guy
   year: 2026
   journal: "Findings of the Association for Computational Linguistics: ACL 2026"
+  start: 8455
+  end: 8475
   url: "https://aclanthology.org/2026.findings-acl.412/"
